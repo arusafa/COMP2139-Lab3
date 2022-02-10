@@ -1,0 +1,8 @@
+C:\GBC_Semester_4\MyProjects\Aps.net\comp2139\Week-4\Lab3\Lab3-ContactManager\obj\Debug\net6.0\Lab3-ContactManager.csproj.AssemblyReference.cache
+C:\GBC_Semester_4\MyProjects\Aps.net\comp2139\Week-4\Lab3\Lab3-ContactManager\obj\Debug\net6.0\Lab3-ContactManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\GBC_Semester_4\MyProjects\Aps.net\comp2139\Week-4\Lab3\Lab3-ContactManager\obj\Debug\net6.0\Lab3-ContactManager.AssemblyInfoInputs.cache
+C:\GBC_Semester_4\MyProjects\Aps.net\comp2139\Week-4\Lab3\Lab3-ContactManager\obj\Debug\net6.0\Lab3-ContactManager.AssemblyInfo.cs
+C:\GBC_Semester_4\MyProjects\Aps.net\comp2139\Week-4\Lab3\Lab3-ContactManager\obj\Debug\net6.0\Lab3-ContactManager.csproj.CoreCompileInputs.cache
+C:\GBC_Semester_4\MyProjects\Aps.net\comp2139\Week-4\Lab3\Lab3-ContactManager\obj\Debug\net6.0\Lab3-ContactManager.MvcApplicationPartsAssemblyInfo.cache
+C:\GBC_Semester_4\MyProjects\Aps.net\comp2139\Week-4\Lab3\Lab3-ContactManager\obj\Debug\net6.0\Lab3-ContactManager.RazorAssemblyInfo.cache
+C:\GBC_Semester_4\MyProjects\Aps.net\comp2139\Week-4\Lab3\Lab3-ContactManager\obj\Debug\net6.0\Lab3-ContactManager.RazorAssemblyInfo.cs
