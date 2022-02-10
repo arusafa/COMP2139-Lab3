@@ -59,3 +59,6 @@ C:\GBC_Semester_4\MyProjects\Aps.net\comp2139\Week-4\Lab3\Lab3-ContactManager\ob
 C:\GBC_Semester_4\MyProjects\Aps.net\comp2139\Week-4\Lab3\Lab3-ContactManager\obj\Debug\net6.0\ref\Lab3_ContactManager.dll
 C:\GBC_Semester_4\MyProjects\Aps.net\comp2139\Week-4\Lab3\Lab3-ContactManager\obj\Debug\net6.0\Lab3_ContactManager.pdb
 C:\GBC_Semester_4\MyProjects\Aps.net\comp2139\Week-4\Lab3\Lab3-ContactManager\obj\Debug\net6.0\Lab3_ContactManager.genruntimeconfig.cache
+C:\GBC_Semester_4\MyProjects\Aps.net\comp2139\Week-4\Lab3\Lab3-ContactManager\bin\Debug\net6.0\Humanizer.dll
+C:\GBC_Semester_4\MyProjects\Aps.net\comp2139\Week-4\Lab3\Lab3-ContactManager\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\GBC_Semester_4\MyProjects\Aps.net\comp2139\Week-4\Lab3\Lab3-ContactManager\obj\Debug\net6.0\Lab3_ContactManager.csproj.AssemblyReference.cache
